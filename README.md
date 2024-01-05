@@ -6,4 +6,4 @@ I am a Masters student at the University of British Columbia. I worked in the Da
 **Contact Info**
 If you would like to connect with me, you can just drop me an email or connect on LinkedIn.
 - Email: karan.khubdikar95@gmail.com
-- LinkedIn: [Profile]('https://www.linkedin.com/in/karan-khubdikar-228946a4/')
+- LinkedIn: [Profile](https://www.linkedin.com/in/karan-khubdikar-228946a4/)
