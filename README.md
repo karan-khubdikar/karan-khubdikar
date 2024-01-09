@@ -6,11 +6,11 @@ I am a Masters student at the University of British Columbia. I worked in the Da
 
 ## Skills
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python, R, SQL, VBA
 - **Machine Learning:** Regression, Classification, Clustering, Time Series Analysis
-- **Data Analysis:** Pandas, NumPy, SQL
+- **Data Analysis:** Pandas, NumPy
 - **Data Visualization:** Altair, GGplot, Tableau
-- **Tools & Platforms:** Jupyter Notebooks, Git, GitHub
+- **Tools & Platforms:** Jupyter Notebooks, Git, GitHub, Docker, Alteryx
 
 ## Contact Info
 
