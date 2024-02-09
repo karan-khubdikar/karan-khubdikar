@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Masters student at the University of British Columbia. I worked in the Data Science industry for about 3 years before my master's. I'm thrilled about the chance to collaborate, acquire knowledge, and contribute to the ever-evolving realm of data science. 
+I'm a passionate data scientist currently pursuing my Master's at the University of British Columbia. With a foundation in the Data Science industry for about 3 years, I'm eager to collaborate, absorb new knowledge, and make meaningful contributions to the dynamic world of data science. Let's explore the endless possibilities of data together! 
 
 ## Skills
 
