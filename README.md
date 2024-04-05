@@ -10,6 +10,7 @@ I'm a passionate data scientist currently pursuing my Master's at the University
 - **Machine Learning:** Regression, Classification, Clustering, Time Series Analysis
 - **Data Analysis:** Pandas, NumPy
 - **Data Visualization:** Altair, GGplot, Tableau
+- **Statistics:** Regression, Hypothesis testing, Bootstrapping, Bayesian Inference 
 - **Tools & Platforms:** Jupyter Notebooks, Git, GitHub, Docker, Alteryx
 
 ## Contact Info
