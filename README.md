@@ -8,8 +8,8 @@ I'm a passionate data scientist currently pursuing my Master's at the University
 
 - **Programming Languages:** Python, R, SQL, VBA
 - **Machine Learning:** Regression, Classification, Clustering, Time Series Analysis
-- **Data Analysis:** Pandas, NumPy
-- **Data Visualization:** Altair, GGplot, Tableau
+- **Data Analysis:** Pandas, NumPy, dplyr, tidyr, GeoPandas
+- **Data Visualization:** Altair, GGplot, Dash, Shiny, Tableau
 - **Statistics:** Regression, Hypothesis testing, Bootstrapping, Bayesian Inference 
 - **Tools & Platforms:** Jupyter Notebooks, Git, GitHub, Docker, Alteryx
 
