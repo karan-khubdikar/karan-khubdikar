@@ -22,10 +22,12 @@ I'm a passionate data scientist currently pursuing my Master's at the University
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
 - Email: karan.khubdikar95@gmail.com
-- LinkedIn: [Profile](https://www.linkedin.com/in/karan-khubdikar-228946a4/)
 
+## Socials
 
-### Badges
+<p align="left"> <a href="https://www.github.com/karan-khubdikar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/karan-khubdikar-228946a4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+## Badges
 
 <b>My GitHub Stats</b>
 
