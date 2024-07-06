@@ -11,7 +11,7 @@ I'm a passionate data scientist currently pursuing my Master's at the University
 - **Data Analysis:** Pandas, NumPy, dplyr, tidyr, GeoPandas
 - **Data Visualization:** Altair, GGplot, Dash, Shiny, Tableau, Power BI, Matplotlib
 - **Statistics:** Regression, Hypothesis testing, A/B Testing, Bootstrapping, Bayesian Inference 
-- **Tools & Platforms:** Jupyter Notebooks, Git, GitHub, Docker, Alteryx
+- **Tools & Platforms:** Jupyter Notebook, VS Code, R studio, Git, GitHub, Docker, Alteryx
 - **Databases:** Mongo DB, No SQL, AWS
 
 <p align="left">
