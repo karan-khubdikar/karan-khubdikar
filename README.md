@@ -2,16 +2,17 @@
 
 ## About Me
 
-I'm a passionate data scientist currently pursuing my Master's at the University of British Columbia. With a foundation in the Data Science industry for about 3 years, I'm eager to collaborate, absorb new knowledge, and make meaningful contributions to the dynamic world of data science. Let's explore the endless possibilities of data together! 
+I'm a passionate data scientist currently pursuing my Master's at the University of British Columbia. With a foundation in the Data Science industry for 3+ years, I'm eager to collaborate, absorb new knowledge, and make meaningful contributions to the dynamic world of data science. Let's explore the endless possibilities of data together! 
 
 ## Skills
 
 - **Programming Languages:** Python, R, SQL, VBA
-- **Machine Learning:** Regression, Classification, Clustering, Time Series Analysis
+- **Machine Learning:** Regression, Classification, Clustering, Pytorch, Flower Framework, Time Series Analysis
 - **Data Analysis:** Pandas, NumPy, dplyr, tidyr, GeoPandas
-- **Data Visualization:** Altair, GGplot, Dash, Shiny, Tableau
-- **Statistics:** Regression, Hypothesis testing, Bootstrapping, Bayesian Inference 
+- **Data Visualization:** Altair, GGplot, Dash, Shiny, Tableau, Power BI, Matplotlib
+- **Statistics:** Regression, Hypothesis testing, A/B Testing, Bootstrapping, Bayesian Inference 
 - **Tools & Platforms:** Jupyter Notebooks, Git, GitHub, Docker, Alteryx
+- **Databases:** Mongo DB, No SQL, AWS
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
