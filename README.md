@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate data scientist currently pursuing my Master's at the University of British Columbia. With a foundation in the Data Science industry for 3+ years, I'm eager to collaborate, absorb new knowledge, and make meaningful contributions to the dynamic world of data science. Let's explore the endless possibilities of data together! 
+I'm a passionate data scientist with a Master of Data Science from the University of British Columbia, Vancouver, Canada. With a foundation in the Data Science industry for 3+ years, I'm eager to collaborate, absorb new knowledge, and make meaningful contributions to the dynamic world of data science. Let's explore the endless possibilities of data together! 
 
 ## Skills
 
